@@ -1,0 +1,6 @@
+Usuario: aeaplwjk
+Base de datos por defecto: aeaplwjk
+Servidor: rajje.db.elephantsql.com (rajje-01)
+Contraseña: nEACAOKec1SX6nHRpbga26BbA5Mx9hMn
+La base no contiene aún las vistas del ejercicio 11, para su creación se adjuntan las instrucciones
+correspondientes y una consulta simple por cada una.

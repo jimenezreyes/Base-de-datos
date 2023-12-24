@@ -1,0 +1,6 @@
+
+
+Usuario: jqdcxclm
+Base de datos por defecto: jqdcxclm
+Servidor: isilo.db.elephantsql.com (isilo-01)
+Contraseña: 0jocvnPcPHpWpSOJazh0nADlFAzmgMIn
